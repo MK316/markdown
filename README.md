@@ -21,6 +21,7 @@
 | 3 | markdown making dropdown boxes on code cells | example3 |  |
 | 4 | markdown for hyperlinks | example4 |  |
 | 5 | markdown codes to hide running process (e.g., installation, interim results) | example5 |  |
+| 6 | markdown emoji 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example2 |  |
 
 *To be updated
 
