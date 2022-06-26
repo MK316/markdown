@@ -16,13 +16,13 @@
 
 |  | Keywords | Examples | Online references |  
 |:--:|---|:---:|---:|  
-| 1 | Header, text formatting | [example1](/md_example01.ipynb) |  |  
-| 2 | markdown for **comment lines (#)** on code cells | [example2](/md_example02.ipynb) |  |
-| 3 | markdown for **code blocks** on text cells | [example3](/md_example03.ipynb) |  |
-| 4 | markdown making **dropdown boxes** on code cells | example4 |  |
+| 1 | Header, text formatting | [example1](/md_example 01.ipynb) |  |  
+| 2 | markdown for **comment lines (#)** on code cells | [example 02](/md_example02.ipynb) |  |
+| 3 | markdown for **code blocks** on text cells | [example 03](/md_example03.ipynb) |  |
+| 4 | markdown making **dropdown boxes** on code cells | [example 04](/md_example04.ipynb) |  |
 | 5 | markdown for **hyperlinks** | example5 |  |
-| 6 | markdown codes to **hide code running process** (e.g., installation, interim results) | example6 |  |
-| 7 | markdown **emoji** 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example2 | [List of markdown emoji](https://gist.github.com/rxaviers/7360908)  |
+| 6 | markdown codes to **hide code running process** (e.g., installation, interim results) | example 06 |  |
+| 7 | markdown **emoji** 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example 07 | [List of markdown emoji](https://gist.github.com/rxaviers/7360908)  |
 
 ## 3️⃣ Markdown and github pages for personal blog or homepage
 
