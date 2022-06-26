@@ -8,7 +8,7 @@
 
 
 ## 1️⃣ Markdown codes for README.md file on Github
-: _Click 'edit' icon (✒️) to see how markdown codes are used to format the current page.
+: _Click 'edit' icon_ (✒️) to see how markdown codes are used to format the current page.
 
 
 ## 2️⃣ Markdown codes in Colab.ipynb files
