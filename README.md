@@ -16,7 +16,7 @@
 
 |  | Keywords | Examples | Online references |  
 |:--:|---|:---:|---:|  
-| 1 | Header, text formatting | [example1](/md_example01.ipynb) |  |  
+| 1 | Header, <span style="color:blue">some *This is Blue italic.* text</span>text formatting | [example1](/md_example01.ipynb) |  |  
 | 2 | markdown for **comment lines (#)** on code cells | example2 |  |
 | 3 | markdown for **code blocks** on text cells | example3 |  |
 | 4 | markdown making **dropdown boxes** on code cells | example4 |  |
