@@ -14,9 +14,9 @@
 ## Markdown codes in Colab.ipynb files
 : Markdown codes enhance readability of Text sections in colab, especially for your readers/learners.
 
-| Keywords | Example codes | Files |  
-|---|:---:|---:|  
-| Header | example1 |  |  
+|  | Keywords | Example codes | Files |  
+|:--:|---|:---:|---:|  
+| 1 | Header | example1 |  |  
 
 
 *To be updated
