@@ -17,7 +17,7 @@
 |  | Keywords | Example codes | Files |  
 |:--:|---|:---:|---:|  
 | 1 | Header | example1 |  |  
-| 2 | markdown for comments | example2 |  |
+| 2 | markdown for comments on python code cells | example2 |  |
 
 *To be updated
 
