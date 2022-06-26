@@ -28,7 +28,7 @@
 
 |  | Keywords | Examples | Github codes |  
 |:--:|---|:---:|---:| 
-| 1 | Personal homepage using **Github pages** | [example1](https://MK316.github.io) |  |   
+| 1 | Personal homepage using **Github pages** | [MK316](https://MK316.github.io) |  |   
 
 
 🔧 _To be updated (asof Jun 26, 2022)_  
