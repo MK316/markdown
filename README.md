@@ -17,9 +17,10 @@
 |  | Keywords | Example codes | Files |  
 |:--:|---|:---:|---:|  
 | 1 | Header, text formatting | example1 |  |  
-| 2 | markdown for comments on python code cells | example2 |  |
+| 2 | markdown for comment lines (#) on code cells | example2 |  |
 | 3 | markdown making dropdown boxes on code cells | example3 |  |
 | 4 | markdown for hyperlinks | example4 |  |
+| 5 | markdown codes to hide running process (e.g., installation, interim results) | example5 |  |
 
 *To be updated
 
