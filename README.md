@@ -15,7 +15,7 @@
 : Markdown codes enhance readability of Text sections in colab, especially for your readers/learners.
 
 | Keywords | Example codes | Files |  
-|====|:====:|====:|
+|---|:---:|---:|  
 |  |  |  |  
 
 
