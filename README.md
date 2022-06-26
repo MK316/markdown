@@ -28,7 +28,7 @@
 
 |  | Keywords | Examples | Github codes |  
 |:--:|---|:---:|---:| 
-| 1 | Personal homepage | [example1](https://MK316.github.io) |  | 
+| 1 | Personal homepage using **Github pages** | [example1](https://MK316.github.io) |  | 
 
 
 *To be updated
