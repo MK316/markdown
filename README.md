@@ -14,14 +14,14 @@
 ## 2️⃣ Markdown codes in Colab.ipynb files
 : Markdown codes enhance readability of Text sections in colab, especially for your readers/learners.
 
-|  | Keywords | Example codes | Files |  
+|  | Keywords | Example codes | Online references |  
 |:--:|---|:---:|---:|  
 | 1 | Header, text formatting | example1 |  |  
 | 2 | markdown for comment lines (#) on code cells | example2 |  |
 | 3 | markdown making dropdown boxes on code cells | example3 |  |
 | 4 | markdown for hyperlinks | example4 |  |
 | 5 | markdown codes to hide running process (e.g., installation, interim results) | example5 |  |
-| 6 | markdown emoji 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example2 |  |
+| 6 | markdown emoji 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example2 | [List of markdown emoji](https://gist.github.com/rxaviers/7360908)  |
 
 *To be updated
 
