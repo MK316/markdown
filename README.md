@@ -18,7 +18,7 @@
 |:--:|---|:---:|---:|  
 | 1 | Header, text formatting | [example1](/md_example01.ipynb) |  |  
 | 2 | markdown for **comment lines (#)** on code cells | [example2](/md_example02.ipynb) |  |
-| 3 | markdown for **code blocks** on text cells | [example3](/md_example03.ipynb |  |
+| 3 | markdown for **code blocks** on text cells | [example3](/md_example03.ipynb) |  |
 | 4 | markdown making **dropdown boxes** on code cells | example4 |  |
 | 5 | markdown for **hyperlinks** | example5 |  |
 | 6 | markdown codes to **hide code running process** (e.g., installation, interim results) | example6 |  |
