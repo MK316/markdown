@@ -16,8 +16,10 @@
 
 |  | Keywords | Example codes | Files |  
 |:--:|---|:---:|---:|  
-| 1 | Header | example1 |  |  
+| 1 | Header, text formatting | example1 |  |  
 | 2 | markdown for comments on python code cells | example2 |  |
+| 3 | markdown making dropdown boxes on code cells | example3 |  |
+| 4 | markdown for hyperlinks | example4 |  |
 
 *To be updated
 
