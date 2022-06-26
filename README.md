@@ -17,12 +17,12 @@
 |  | Keywords | Example codes | Online references |  
 |:--:|---|:---:|---:|  
 | 1 | Header, text formatting | example1 |  |  
-| 2 | markdown for comment lines (#) on code cells | example2 |  |
-| 3 | markdown for code blocks on text cells | example3 |  |
-| 4 | markdown making dropdown boxes on code cells | example4 |  |
-| 5 | markdown for hyperlinks | example5 |  |
-| 6 | markdown codes to hide running process (e.g., installation, interim results) | example6 |  |
-| 7 | markdown emoji 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example2 | [List of markdown emoji](https://gist.github.com/rxaviers/7360908)  |
+| 2 | markdown for **comment lines (#)** on code cells | example2 |  |
+| 3 | markdown for **code blocks** on text cells | example3 |  |
+| 4 | markdown making **dropdown boxes** on code cells | example4 |  |
+| 5 | markdown for **hyperlinks** | example5 |  |
+| 6 | markdown codes to **hide code running process** (e.g., installation, interim results) | example6 |  |
+| 7 | markdown **emoji** 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example2 | [List of markdown emoji](https://gist.github.com/rxaviers/7360908)  |
 
 *To be updated
 
