@@ -19,7 +19,7 @@
 | 1 | Header, text formatting | [example 01](/md_example01.ipynb) |  |  
 | 2 | markdown for **comment lines (#)** on code cells | [example 02](/md_example02.ipynb) |  |
 | 3 | markdown for **code blocks** on text cells | [example 03](/md_example03.ipynb) |  |
-| 4 | markdown making **dropdown boxes** on code cells | [example 04](/md_example04.ipynb) |  |
+| 4 | markdown making **a dropdown box** on code cells | [example 04](/md_example04.ipynb) |  |
 | 5 | markdown for **hyperlinks** | example 05 |  |
 | 6 | markdown codes to **hide code running process** (e.g., installation, interim results) | example 06 |  |
 | 7 | markdown **emoji** 🍎 🎹 🔎 🔈 🌱 🌀 💜  | example 07 | [List of markdown emoji](https://gist.github.com/rxaviers/7360908)  |
