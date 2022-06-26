@@ -7,17 +7,17 @@
 - **GitHub favoured Markdown:** "Github had been using its own variant of Markdown since as early as 2009, adding support for additional formatting such as tables and nesting block content inside list elements, as well as GitHub-specific features such as auto-linking references to commits, issues, usernames, etc. In 2017, GitHub released a formal specification of its GitHub Flavored Markdown (GFM) that is based on CommonMark."  
 
 
-## Markdown codes for README.md file on Github
+## 1️⃣ Markdown codes for README.md file on Github
 : Click 'edit' icon and you can see how markdown codes changes text edits on the screen.
 
 
-## Markdown codes in Colab.ipynb files
+## 2️⃣ Markdown codes in Colab.ipynb files
 : Markdown codes enhance readability of Text sections in colab, especially for your readers/learners.
 
 |  | Keywords | Example codes | Files |  
 |:--:|---|:---:|---:|  
 | 1 | Header | example1 |  |  
-
+| 2 | markdown for comments | example2 |  |
 
 *To be updated
 
