@@ -23,6 +23,7 @@
 | 5 | markdown for **hyperlinks** | [example 05](/md_example05.ipynb) |  |
 | 6 | markdown codes to **hide code running process** (e.g., installation, interim results) | [example 06](/md_example06.ipynb) |  |
 | 7 | markdown **emoji** 🍎 🎹 🔎 🔈 🌱 🌀 💜  | [List of markdown emoji](https://gist.github.com/rxaviers/7360908)  |  |
+| 8 | markdown image links | [example_08](/md_example08.ipynb)||
 
 ## 3️⃣ Markdown and github pages for personal blog or homepage
 
